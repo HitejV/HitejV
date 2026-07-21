@@ -32,7 +32,7 @@ Pinned repos below - check back soon, actively adding projects.
 
 **Languages:** C, C++ (object-oriented design), Python, Assembly
 
-**Platforms:** STM32 Nucleo & LPC4088 (ARM Cortex-M4), Arduino Uno (AVR ATmega328), 8051, Raspberry Pi (Embedded Linux)
+**Microcontrollers / Boards:** STM32 Nucleo & LPC4088 (ARM Cortex-M4), Arduino Uno (AVR ATmega328), 8051, Raspberry Pi (Embedded Linux)
 
 **RTOS / Real-Time:** FreeRTOS, task scheduling, queues & semaphores, interrupt handling
 
